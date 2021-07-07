@@ -1,0 +1,3 @@
+C:/Users/NINCOL/Documents/GitHub/pooii-tarea-1-entrega-14-04-dipolo12q/Ejer5/Ejer5a/cmake-build-debug/CMakeFiles/Ejer5a.dir
+C:/Users/NINCOL/Documents/GitHub/pooii-tarea-1-entrega-14-04-dipolo12q/Ejer5/Ejer5a/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NINCOL/Documents/GitHub/pooii-tarea-1-entrega-14-04-dipolo12q/Ejer5/Ejer5a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
